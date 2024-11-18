@@ -1,5 +1,6 @@
 # Visualizing-Data-with-QuickSight-on-aws
 <img width="705" alt="Architect-" src="https://github.com/user-attachments/assets/5866ca31-9401-465a-bd3e-7e72f788b072">
+
 This project demonstrates the process of visualizing Netflix's data trends using **Amazon S3** and **Amazon QuickSight**. It provides insights into Netflix's titles through various graphical visualizations.
 
 ---
